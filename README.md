@@ -23,7 +23,6 @@
 - Enable CPU testing on VMs. -- Currently VMs don't get a CPU test, because my ConfigMgr testing Hyper-V server is too old.
 - Add parameter to select Windows 11 Release checking i.e. 21H2, 22H2, or 23H2 -- As of 2024.12.13 it's 22H2/23H2
 - Add ability to cache compatible processors for offline use.
-- Add RAM check
 
 ## License
 
