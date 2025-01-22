@@ -1,5 +1,5 @@
 # Test-W11Compatibility.ps1
- This script intended to run within a ConfigMgr Task Sequnce, it checks the compatibility of a system with Windows 11, including UEFI, Secure Boot, TPM, and processor compatibility.
+ This script is intended to run within a ConfigMgr Task Sequence. It checks a system's compatibility with Windows 11, including UEFI, Secure Boot, TPM, and processor compatibility.
 
 ![Test-W11Compatibility](Test-W11Compatibility.png)
 
